@@ -399,11 +399,14 @@ header.main-header:before {
 	float:left;
 	position:relative;
 	top:30px;
+	height: 50px;
+	width: 100px;
 }
 .header-logo img {
 	float:left;
 	width: auto;
-	height:26px;
+	height: 50px;
+	width: 150px;
 }
 .nav-button-wrap {
 	right:0;
