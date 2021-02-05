@@ -1,0 +1,476 @@
+Uri: http://theside.kwst.net/
+File Name: D:\Downloaded Web Sites\theside.kwst.net\index.htm
+Content Type: text/html
+
+Uri: http://theside.kwst.net/css/reset.css
+File Name: D:\Downloaded Web Sites\theside.kwst.net\css\reset.css
+Content Type: text/css
+
+Uri: http://theside.kwst.net/css/plugins.css
+File Name: D:\Downloaded Web Sites\theside.kwst.net\css\plugins.css
+Content Type: text/css
+
+Uri: http://theside.kwst.net/css/style.css
+File Name: D:\Downloaded Web Sites\theside.kwst.net\css\style.css
+Content Type: text/css
+
+Uri: http://theside.kwst.net/css/color.css
+File Name: D:\Downloaded Web Sites\theside.kwst.net\css\color.css
+Content Type: text/css
+
+Uri: http://theside.kwst.net/images/favicon.ico
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://theside.kwst.net/index.html
+File Name: D:\Downloaded Web Sites\theside.kwst.net\index.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/index2.html
+File Name: D:\Downloaded Web Sites\theside.kwst.net\index2.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/index8.html
+File Name: D:\Downloaded Web Sites\theside.kwst.net\index8.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/index3.html
+File Name: D:\Downloaded Web Sites\theside.kwst.net\index3.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/index4.html
+File Name: D:\Downloaded Web Sites\theside.kwst.net\index4.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/index5.html
+File Name: D:\Downloaded Web Sites\theside.kwst.net\index5.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/index6.html
+File Name: D:\Downloaded Web Sites\theside.kwst.net\index6.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/index7.html
+File Name: D:\Downloaded Web Sites\theside.kwst.net\index7.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/about.html
+File Name: D:\Downloaded Web Sites\theside.kwst.net\about.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/about-personal.html
+File Name: D:\Downloaded Web Sites\theside.kwst.net\about-personal.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/portfolio.html
+File Name: D:\Downloaded Web Sites\theside.kwst.net\portfolio.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/portfolio2.html
+File Name: D:\Downloaded Web Sites\theside.kwst.net\portfolio2.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/portfolio5.html
+File Name: D:\Downloaded Web Sites\theside.kwst.net\portfolio5.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/portfolio6.html
+File Name: D:\Downloaded Web Sites\theside.kwst.net\portfolio6.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/portfolio3.html
+File Name: D:\Downloaded Web Sites\theside.kwst.net\portfolio3.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/portfolio4.html
+File Name: D:\Downloaded Web Sites\theside.kwst.net\portfolio4.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/portfolio7.html
+File Name: D:\Downloaded Web Sites\theside.kwst.net\portfolio7.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/portfolio-single.html
+File Name: D:\Downloaded Web Sites\theside.kwst.net\portfolio-single.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/portfolio-single2.html
+File Name: D:\Downloaded Web Sites\theside.kwst.net\portfolio-single2.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/portfolio-single3.html
+File Name: D:\Downloaded Web Sites\theside.kwst.net\portfolio-single3.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/portfolio-single4.html
+File Name: D:\Downloaded Web Sites\theside.kwst.net\portfolio-single4.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/portfolio-single5.html
+File Name: D:\Downloaded Web Sites\theside.kwst.net\portfolio-single5.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/portfolio-single6.html
+File Name: D:\Downloaded Web Sites\theside.kwst.net\portfolio-single6.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/portfolio-single7.html
+File Name: D:\Downloaded Web Sites\theside.kwst.net\portfolio-single7.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/services.html
+File Name: D:\Downloaded Web Sites\theside.kwst.net\services.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/contacts.html
+File Name: D:\Downloaded Web Sites\theside.kwst.net\contacts.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/blog.html
+File Name: D:\Downloaded Web Sites\theside.kwst.net\blog.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/images/logo.png
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\logo.png
+Content Type: image/png
+
+Uri: http://theside.kwst.net/js/jquery.min.js
+File Name: D:\Downloaded Web Sites\theside.kwst.net\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://theside.kwst.net/js/plugins.js
+File Name: D:\Downloaded Web Sites\theside.kwst.net\js\plugins.js
+Content Type: application/javascript
+
+Uri: http://theside.kwst.net/js/core.js
+File Name: D:\Downloaded Web Sites\theside.kwst.net\js\core.js
+Content Type: application/javascript
+
+Uri: http://theside.kwst.net/js/scripts.js
+File Name: D:\Downloaded Web Sites\theside.kwst.net\js\scripts.js
+Content Type: application/javascript
+
+Uri: http://theside.kwst.net/fonts/fa-brands-400.eot
+File Name: D:\Downloaded Web Sites\theside.kwst.net\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://theside.kwst.net/fonts/fa-brands-400.eot?
+File Name: D:\Downloaded Web Sites\theside.kwst.net\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://theside.kwst.net/fonts/fa-brands-400.woff2
+File Name: D:\Downloaded Web Sites\theside.kwst.net\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: http://theside.kwst.net/fonts/fa-brands-400.woff
+File Name: D:\Downloaded Web Sites\theside.kwst.net\fonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: http://theside.kwst.net/fonts/fa-brands-400.ttf
+File Name: D:\Downloaded Web Sites\theside.kwst.net\fonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: http://theside.kwst.net/fonts/fa-brands-400.svg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://theside.kwst.net/fonts/fa-light-300.eot
+File Name: D:\Downloaded Web Sites\theside.kwst.net\fonts\fa-light-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://theside.kwst.net/fonts/fa-light-300.eot?
+File Name: D:\Downloaded Web Sites\theside.kwst.net\fonts\fa-light-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://theside.kwst.net/fonts/fa-light-300.woff2
+File Name: D:\Downloaded Web Sites\theside.kwst.net\fonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: http://theside.kwst.net/fonts/fa-light-300.woff
+File Name: D:\Downloaded Web Sites\theside.kwst.net\fonts\fa-light-300.woff
+Content Type: font/woff
+
+Uri: http://theside.kwst.net/fonts/fa-light-300.ttf
+File Name: D:\Downloaded Web Sites\theside.kwst.net\fonts\fa-light-300.ttf
+Content Type: application/octet-stream
+
+Uri: http://theside.kwst.net/fonts/fa-light-300.svg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\fonts\fa-light-300.svg
+Content Type: image/svg+xml
+
+Uri: http://theside.kwst.net/fonts/fa-regular-400.eot
+File Name: D:\Downloaded Web Sites\theside.kwst.net\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://theside.kwst.net/fonts/fa-regular-400.eot?
+File Name: D:\Downloaded Web Sites\theside.kwst.net\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://theside.kwst.net/fonts/fa-regular-400.woff2
+File Name: D:\Downloaded Web Sites\theside.kwst.net\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: http://theside.kwst.net/fonts/fa-regular-400.woff
+File Name: D:\Downloaded Web Sites\theside.kwst.net\fonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: http://theside.kwst.net/fonts/fa-regular-400.ttf
+File Name: D:\Downloaded Web Sites\theside.kwst.net\fonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: http://theside.kwst.net/fonts/fa-regular-400.svg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://theside.kwst.net/fonts/fa-solid-900.eot
+File Name: D:\Downloaded Web Sites\theside.kwst.net\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://theside.kwst.net/fonts/fa-solid-900.eot?
+File Name: D:\Downloaded Web Sites\theside.kwst.net\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://theside.kwst.net/fonts/fa-solid-900.woff2
+File Name: D:\Downloaded Web Sites\theside.kwst.net\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: http://theside.kwst.net/fonts/fa-solid-900.woff
+File Name: D:\Downloaded Web Sites\theside.kwst.net\fonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: http://theside.kwst.net/fonts/fa-solid-900.ttf
+File Name: D:\Downloaded Web Sites\theside.kwst.net\fonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: http://theside.kwst.net/fonts/fa-solid-900.svg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://theside.kwst.net/fonts/lg.eot?n1z373
+File Name: D:\Downloaded Web Sites\theside.kwst.net\fonts\lg.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://theside.kwst.net/fonts/lg.eot?
+File Name: D:\Downloaded Web Sites\theside.kwst.net\fonts\lg-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://theside.kwst.net/fonts/lg.woff?n1z373
+File Name: D:\Downloaded Web Sites\theside.kwst.net\fonts\lg.woff
+Content Type: font/woff
+
+Uri: http://theside.kwst.net/fonts/lg.ttf?n1z373
+File Name: D:\Downloaded Web Sites\theside.kwst.net\fonts\lg.ttf
+Content Type: application/octet-stream
+
+Uri: http://theside.kwst.net/fonts/lg.svg?n1z373
+File Name: D:\Downloaded Web Sites\theside.kwst.net\fonts\lg.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.googleapis.com/css?family=Mukta:300,400,500,600,700,800|Oswald:200,300,400,500,600,700|Roboto:400,500,700,900&subset=cyrillic,cyrillic-ext,devanagari,greek,greek-ext,latin-ext,vietnamese
+File Name: D:\Downloaded Web Sites\theside.kwst.net\css.css
+Content Type: text/css
+
+Uri: http://theside.kwst.net/images/bg/8.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\bg\8.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/bg/18.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\bg\18.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/bg/14.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\bg\14.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/bg/16.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\bg\16.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/bg/4.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\bg\4.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/bg/2.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\bg\2.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/bg/12.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\bg\12.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/bg/1.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\bg\1.jpg
+Content Type: image/jpeg
+
+Uri: https://vimeo.com/56930191
+File Name: D:\Downloaded Web Sites\theside.kwst.net\56930191.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/images/all/8.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\all\8.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/team/1.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\team\1.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/team/2.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\team\2.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/team/3.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\team\3.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/team/4.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\team\4.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/avatar/1.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\avatar\1.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/avatar/2.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\avatar\2.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/avatar/3.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\avatar\3.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/avatar/4.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\avatar\4.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/team/5.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\team\5.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/folio/1.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\folio\1.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/folio/2.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\folio\2.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/folio/8.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\folio\8.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/folio/4.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\folio\4.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/folio/5.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\folio\5.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/folio/6.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\folio\6.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/folio/7.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\folio\7.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/folio/3.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\folio\3.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/folio/9.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\folio\9.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/folio/10.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\folio\10.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/folio/13.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\folio\13.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/folio/17.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\folio\17.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/folio/11.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\folio\11.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/folio/16.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\folio\16.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/folio/20.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\folio\20.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/folio/12.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\folio\12.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/folio/14.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\folio\14.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/folio/15.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\folio\15.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/folio/21.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\folio\21.jpg
+Content Type: image/jpeg
+
+Uri: https://vimeo.com/34741214
+File Name: D:\Downloaded Web Sites\theside.kwst.net\34741214.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/images/plans/1.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\plans\1.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/plans/2.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\plans\2.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/plans/3.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\plans\3.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/all/7.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\all\7.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/all/4.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\all\4.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/all/6.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\all\6.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/bg/3.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\bg\3.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/all/1.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\all\1.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/blog-single.html
+File Name: D:\Downloaded Web Sites\theside.kwst.net\blog-single.html
+Content Type: text/html
+
+Uri: http://theside.kwst.net/images/all/5.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\all\5.jpg
+Content Type: image/jpeg
+
+Uri: http://theside.kwst.net/images/all/3.jpg
+File Name: D:\Downloaded Web Sites\theside.kwst.net\images\all\3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.google.com.ua/maps/@40.7414887,-73.9850932,16z?hl=ru
+File Name: D:\Downloaded Web Sites\theside.kwst.net\maps\@40.7414887,-73.9850932,16z.html
+Content Type: text/html
+
