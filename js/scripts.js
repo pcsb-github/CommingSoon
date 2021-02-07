@@ -537,7 +537,7 @@ function initTheside() {
         });
         // Share   ------------------
         $(".share-container").share({
-            networks: ['facebook', 'pinterest', 'googleplus', 'twitter', 'linkedin']
+            // networks: ['facebook', 'pinterest', 'googleplus', 'twitter', 'linkedin']
         });
         var shrcn = $(".share-container"),
             swra = $(".share-wrapper"),
